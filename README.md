@@ -1,2 +1,3 @@
 # art-seeds
 Community Art / Installation Portal w/ advanced data science
+We would to enable a team to help me with a project to create a front end liason style website / app to bring artists and art installations together. Initially subscription based on both parties and eventually offering transaction merchant services as well. Furthermore, I woukld like to enable an ambassador outreach program to include launch cities and develop find me follow me marketing attached to the installations. I beleieve tehre are new technologies that we would hope to enable as well as far as Augmented marketing placement, AI lead generation and more as we learn more in this cloud space.
